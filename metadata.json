@@ -1,0 +1,7 @@
+{
+  "name": "فِكرة - منظّم الأفكار الذكي",
+  "description": "تطبيق ذكي وسلس لتدوين الأفكار وترتيبها تلقائياً ويدوياً في ملفات وتصنيفات مخصصة مع سلة مهملات وبحث فوري",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
